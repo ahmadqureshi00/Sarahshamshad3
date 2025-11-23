@@ -8,8 +8,8 @@ export default function Services() {
       icon: "✍️"
     },
     {
-      title: "Journalistic Writing",
-      description: "Investigative reporting, feature writing, and news analysis across digital and print platforms.",
+      title: "Journalistic & Editorial Writing",
+      description: "Investigative reporting, feature writing, editorial content, and news analysis across digital and print platforms.",
       icon: "📰"
     },
     {
@@ -18,9 +18,9 @@ export default function Services() {
       icon: "📚"
     },
     {
-      title: "Training & Workshops",
-      description: "Customized training programs in communication, writing, and media literacy for organizations.",
-      icon: "🎓"
+      title: "Translation & Language Services",
+      description: "Professional translation services and language education including IELTS preparation.",
+      icon: "🌐"
     }
   ];
 
@@ -30,7 +30,7 @@ export default function Services() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-lora font-bold mb-4">Services</h2>
           <p className="text-xl text-charcoal dark:text-off-white max-w-3xl mx-auto">
-            Bridging the worlds of media, academia, and business with tailored communication solutions.
+            Bridging the worlds of media, academia, language education, and business with tailored communication solutions.
           </p>
         </div>
 

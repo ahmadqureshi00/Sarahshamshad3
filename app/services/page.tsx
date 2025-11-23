@@ -10,18 +10,21 @@ export default function Services() {
         "Audience analysis and persona development",
         "Content planning and calendar creation",
         "Multi-platform content creation",
-        "Performance analytics and optimization"
+        "Performance analytics and optimization",
+        "Brand storytelling and narrative development"
       ],
       icon: "✍️"
     },
     {
-      title: "Journalistic Writing",
-      description: "Investigative reporting, feature writing, and news analysis across digital and print platforms.",
+      title: "Journalistic & Editorial Writing",
+      description: "Investigative reporting, feature writing, editorial content, and news analysis across digital and print platforms.",
       features: [
         "Investigative journalism",
         "Feature articles and profiles",
-        "News analysis and commentary",
-        "Fact-checking and verification"
+        "Editorial writing and commentary",
+        "News analysis and current affairs",
+        "Fact-checking and verification",
+        "Anchor and presenter services"
       ],
       icon: "📰"
     },
@@ -32,20 +35,24 @@ export default function Services() {
         "Literature reviews and synthesis",
         "Research design and methodology",
         "Academic paper writing and editing",
-        "Publication strategy and support"
+        "Publication strategy and support",
+        "Editorial services for journals",
+        "Research analysis and reporting"
       ],
       icon: "📚"
     },
     {
-      title: "Training & Workshops",
-      description: "Customized training programs in communication, writing, and media literacy for organizations.",
+      title: "Translation & Language Services",
+      description: "Professional translation services and language education including IELTS preparation.",
       features: [
-        "Media literacy workshops",
-        "Professional writing training",
-        "Communication skills development",
-        "Custom curriculum design"
+        "English to Urdu translation",
+        "Urdu to English translation",
+        "Book translation and publishing",
+        "Language teaching and tutoring",
+        "IELTS preparation and instruction",
+        "Curriculum development"
       ],
-      icon: "🎓"
+      icon: "🌐"
     }
   ];
 
@@ -59,7 +66,7 @@ export default function Services() {
             <div className="text-center mb-16">
               <h1 className="text-4xl md:text-5xl font-lora font-bold mb-6">Services</h1>
               <p className="text-xl text-charcoal dark:text-off-white max-w-3xl mx-auto">
-                Bridging the worlds of media, academia, and business with tailored communication solutions.
+                Bridging the worlds of media, academia, language education, and business with tailored communication solutions.
               </p>
             </div>
 
@@ -67,7 +74,7 @@ export default function Services() {
               <div>
                 <h2 className="text-3xl font-lora font-bold mb-6">My Approach</h2>
                 <p className="text-charcoal dark:text-off-white mb-6">
-                  With experience spanning journalism, academia, and corporate communication, I bring a unique 
+                  With experience spanning journalism, academia, translation, language education, and corporate communication, I bring a unique 
                   multidisciplinary perspective to every project.
                 </p>
                 <p className="text-charcoal dark:text-off-white mb-6">

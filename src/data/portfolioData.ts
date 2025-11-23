@@ -36,6 +36,14 @@ export const portfolioData = [
     imageUrl: "/materials/uni of chitral.pdf", // This will use the fallback
     link: "/materials/uni of chitral.pdf"
   },
+  // Translation work
+  { 
+    slug: "house-of-bush-house-of-saud-translation", 
+    title: "House of Bush, House of Saud (Urdu Translation)", 
+    category: "Translation",
+    imageUrl: "/materials/translate_book.jpg", // Book cover image
+    link: "/materials/translate_book.jpg"
+  },
   // Blog posts added to portfolio
   { 
     slug: "khabrain-siraiki-mashawarat", 
@@ -88,4 +96,4 @@ export const portfolioData = [
   }
 ];
 
-export const portfolioCategories = ["All", "Academic Research", "Journalism"];
+export const portfolioCategories = ["All", "Academic Research", "Translation", "Journalism"];

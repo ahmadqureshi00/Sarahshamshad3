@@ -37,17 +37,17 @@ export default function About() {
     {
       period: "2005 - 2006",
       title: "Lecturer",
-      organization: "Scholars College Multan"
+      organization: "Preston University"
     },
     {
       period: "2004 - 2005",
       title: "Lecturer",
-      organization: "Preston University"
+      organization: "Zimics"
     },
     {
       period: "2002 - 2004",
       title: "Lecturer",
-      organization: "Zimics"
+      organization: "Scholars College Multan"
     }
   ];
 
@@ -71,7 +71,7 @@ export default function About() {
             <div className="text-center mb-16">
               <h1 className="text-4xl md:text-5xl font-lora font-bold mb-6">About Sarah Shamshad</h1>
               <p className="text-xl text-charcoal dark:text-off-white max-w-3xl mx-auto">
-                Strategic Communication and Creative Storytelling Professional
+                Strategic Communication, Creative Storytelling, Translation & Language Education Professional
               </p>
             </div>
             
@@ -94,7 +94,7 @@ export default function About() {
                 <h2 className="text-3xl font-lora font-bold mb-6">My Journey</h2>
                 <p className="text-charcoal dark:text-off-white mb-6">
                   As a multi-hyphenate professional, I bridge the worlds of journalism, content creation, academic research, 
-                  and entrepreneurship. My work focuses on strategic communication that drives impact across diverse audiences.
+                  translation, language teaching, and entrepreneurship. My work focuses on strategic communication that drives impact across diverse audiences.
                 </p>
                 <p className="text-charcoal dark:text-off-white mb-6">
                   With a PhD in Communication Studies and years of experience in international media, I bring a unique 
@@ -142,32 +142,41 @@ export default function About() {
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
               <div className="bg-white dark:bg-charcoal p-8 rounded-lg shadow-sm border border-neutral-gray/30">
-                <h3 className="text-xl font-lora font-semibold mb-4">Communication</h3>
+                <h3 className="text-xl font-lora font-semibold mb-4">Communication & Media</h3>
                 <ul className="space-y-2 text-charcoal dark:text-off-white">
                   <li>• Strategic Messaging</li>
                   <li>• Public Speaking</li>
                   <li>• Crisis Communication</li>
                   <li>• Intercultural Communication</li>
-                </ul>
-              </div>
-              
-              <div className="bg-white dark:bg-charcoal p-8 rounded-lg shadow-sm border border-neutral-gray/30">
-                <h3 className="text-xl font-lora font-semibold mb-4">Content</h3>
-                <ul className="space-y-2 text-charcoal dark:text-off-white">
                   <li>• Journalism & Editing</li>
                   <li>• Digital Content Strategy</li>
-                  <li>• Academic Writing</li>
                   <li>• Multimedia Production</li>
                 </ul>
               </div>
               
               <div className="bg-white dark:bg-charcoal p-8 rounded-lg shadow-sm border border-neutral-gray/30">
-                <h3 className="text-xl font-lora font-semibold mb-4">Research</h3>
+                <h3 className="text-xl font-lora font-semibold mb-4">Academia & Research</h3>
                 <ul className="space-y-2 text-charcoal dark:text-off-white">
                   <li>• Qualitative Methods</li>
                   <li>• Data Analysis</li>
                   <li>• Literature Reviews</li>
                   <li>• Academic Publishing</li>
+                  <li>• Research Design</li>
+                  <li>• Academic Writing</li>
+                  <li>• Editorial Services</li>
+                </ul>
+              </div>
+              
+              <div className="bg-white dark:bg-charcoal p-8 rounded-lg shadow-sm border border-neutral-gray/30">
+                <h3 className="text-xl font-lora font-semibold mb-4">Language & Education</h3>
+                <ul className="space-y-2 text-charcoal dark:text-off-white">
+                  <li>• Translation (English-Urdu)</li>
+                  <li>• Language Teaching</li>
+                  <li>• IELTS Instruction</li>
+                  <li>• Curriculum Development</li>
+                  <li>• Current Affairs Analysis</li>
+                  <li>• Anchor & Presenter Skills</li>
+                  <li>• Editorial Writing</li>
                 </ul>
               </div>
             </div>

@@ -24,7 +24,7 @@ export default function PortfolioPreview() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-lora font-bold mb-4">Featured Work</h2>
           <p className="text-xl text-charcoal dark:text-off-white max-w-3xl mx-auto">
-            A selection of projects showcasing the intersection of journalism, content strategy, and academic research.
+            A selection of projects showcasing the intersection of journalism, content strategy, academic research, translation, and more.
           </p>
         </div>
 

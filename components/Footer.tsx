@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <h2 className="text-2xl font-lora font-bold mb-4">Sarah Shamshad</h2>
             <p className="text-neutral-gray mb-6 max-w-md">
-              Strategic Communication and Creative Storytelling Professional bridging journalism, content creation, and academic research.
+              Strategic Communication, Creative Storytelling, Translation & Language Education Professional bridging journalism, content creation, academic research, and education.
             </p>
             <div className="flex space-x-4">
               <Link href="https://pk.linkedin.com/in/sarah-shamshad-bbbb0532" target="_blank" rel="noopener noreferrer" className="hover:text-teal transition-colors">

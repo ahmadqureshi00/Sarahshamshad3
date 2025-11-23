@@ -14,7 +14,7 @@ export default function Hero() {
               Strategic Communication & <span className="text-teal">Creative Storytelling</span>
             </h1>
             <p className="text-xl text-charcoal dark:text-off-white mb-8 max-w-2xl">
-              Hi, I'm Sarah Shamshad — a journalist, content creator, PhD scholar, and entrepreneur 
+              Hi, I'm Sarah Shamshad — a journalist, content creator, PhD scholar, translator, language teacher, and entrepreneur 
               weaving narratives that inform, inspire, and drive impact across media, academia, and business.
             </p>
             <div className="flex flex-wrap gap-4">

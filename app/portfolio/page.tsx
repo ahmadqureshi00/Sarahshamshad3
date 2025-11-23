@@ -33,7 +33,7 @@ export default function Portfolio() {
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-lora font-bold mb-6">Portfolio</h1>
               <p className="text-xl text-charcoal dark:text-off-white max-w-3xl mx-auto">
-                A curated selection of projects spanning journalism, content strategy, academic research, and more.
+                A curated selection of projects spanning journalism, content strategy, academic research, translation, and more.
               </p>
             </div>
             

@@ -38,7 +38,7 @@ export default function Blog() {
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-lora font-bold mb-6">Insights & Perspectives</h1>
               <p className="text-xl text-charcoal dark:text-off-white max-w-3xl mx-auto">
-                Exploring the intersections of media, academia, and cultural narratives through critical analysis and storytelling.
+                Exploring the intersections of media, academia, translation, language education, and cultural narratives through critical analysis and storytelling.
               </p>
             </div>
             
@@ -52,7 +52,7 @@ export default function Blog() {
                     </span>
                     <h2 className="text-3xl font-lora font-bold mb-4">{featuredPost.title}</h2>
                     <p className="text-charcoal dark:text-off-white mb-6">
-                      Explore this featured article for insights and perspectives on contemporary media and cultural narratives.
+                      Explore this featured article for insights and perspectives on contemporary media, language, and cultural narratives.
                     </p>
                     <div className="flex items-center text-sm text-neutral-gray mb-6">
                       <span>November 16, 2025</span>
