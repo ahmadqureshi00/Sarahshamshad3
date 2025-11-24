@@ -44,6 +44,14 @@ export const portfolioData = [
     imageUrl: "/materials/translate_book.jpg", // Book cover image
     link: "/materials/translate_book.jpg"
   },
+  // New journalist portfolio item
+  { 
+    slug: "jeffrey-epstein-jinsi-dorinda-ya-supplier", 
+    title: "جفری ایپسٹائن جینسی ڈورندا یا سپلائر", 
+    category: "Journalism",
+    imageUrl: "/materials/journalist.jpeg", // Placeholder - replace with actual image when available
+    link: "/materials/journalist.jpeg"
+  },
   // Blog posts added to portfolio
   { 
     slug: "khabrain-siraiki-mashawarat", 

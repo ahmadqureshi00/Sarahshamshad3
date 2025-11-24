@@ -21,6 +21,9 @@ export default function Services() {
       features: [
         "Investigative journalism",
         "Feature articles and profiles",
+        "Columnist ",
+        "Current affairs",
+        "Geopolitical stories",
         "Editorial writing and commentary",
         "News analysis and current affairs",
         "Fact-checking and verification",
@@ -34,6 +37,10 @@ export default function Services() {
       features: [
         "Literature reviews and synthesis",
         "Research design and methodology",
+        "Supervisor",
+        "Assignment writer",
+        "Reviewer",
+        "Proofreader",
         "Academic paper writing and editing",
         "Publication strategy and support",
         "Editorial services for journals",
@@ -47,6 +54,7 @@ export default function Services() {
       features: [
         "English to Urdu translation",
         "Urdu to English translation",
+        "literature (south Asian)",
         "Book translation and publishing",
         "Language teaching and tutoring",
         "IELTS preparation and instruction",

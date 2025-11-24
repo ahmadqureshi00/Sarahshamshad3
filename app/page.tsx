@@ -5,6 +5,7 @@ import Services from "../components/Services";
 import PortfolioPreview from "../components/PortfolioPreview";
 import AboutPreview from "../components/AboutPreview";
 import CertificationsPreview from "../components/CertificationsPreview";
+import GalleryPreview from "../components/GalleryPreview";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <Services />
         <PortfolioPreview />
         <CertificationsPreview />
+        <GalleryPreview />
         <AboutPreview />
       </main>
       <Footer />
