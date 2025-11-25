@@ -45,6 +45,9 @@ export default function Header() {
             <Link href="/gallery" className="text-charcoal dark:text-off-white hover:text-teal dark:hover:text-teal transition-colors">
               Gallery
             </Link>
+            <Link href="/ielts" className="text-charcoal dark:text-off-white hover:text-teal dark:hover:text-teal transition-colors">
+              IELTS
+            </Link>
             <Link href="/services" className="text-charcoal dark:text-off-white hover:text-teal dark:hover:text-teal transition-colors">
               Services
             </Link>
@@ -116,6 +119,13 @@ export default function Header() {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Gallery
+              </Link>
+              <Link 
+                href="/ielts" 
+                className="text-charcoal dark:text-off-white hover:text-teal dark:hover:text-teal transition-colors py-2"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                IELTS
               </Link>
               <Link 
                 href="/services" 

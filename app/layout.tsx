@@ -19,10 +19,10 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: {
     template: "%s | Sarah Shamshad - Strategic Communication Professional",
-    default: "Sarah Shamshad | Journalist, Content Creator & PhD Scholar",
+    default: "Sarah Shamshad | Journalist, Podcaster & Academic",
   },
-  description: "Portfolio of Sarah Shamshad - Strategic Communication and Creative Storytelling Professional bridging journalism, content creation, academic research, and entrepreneurship.",
-  keywords: "journalist, content creator, PhD scholar, entrepreneur, communication, storytelling, media, academia, research, writing",
+  description: "Portfolio of Sarah Shamshad - PhD Scholar, Journalist, and Podcaster specializing in strategic communication and IELTS training.",
+  keywords: "journalist, podcaster, content creator, PhD scholar, entrepreneur, communication, storytelling, media, academia, research, writing, IELTS",
   authors: [{ name: "Sarah Shamshad" }],
   creator: "Sarah Shamshad",
   publisher: "Sarah Shamshad",
@@ -35,13 +35,13 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://sarahshamshad.com",
     title: "Sarah Shamshad | Strategic Communication Professional",
-    description: "Portfolio showcasing work in journalism, content strategy, academic research, and entrepreneurship.",
+    description: "Portfolio showcasing work in journalism, podcasting, content strategy, academic research, and entrepreneurship.",
     siteName: "Sarah Shamshad Portfolio",
   },
   twitter: {
     card: "summary_large_image",
     title: "Sarah Shamshad | Strategic Communication Professional",
-    description: "Portfolio showcasing work in journalism, content strategy, academic research, and entrepreneurship.",
+    description: "Portfolio showcasing work in journalism, podcasting, content strategy, academic research, and entrepreneurship.",
   },
 };
 

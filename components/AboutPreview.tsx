@@ -8,7 +8,7 @@ export default function AboutPreview() {
     { src: "/materials/journey2.png", alt: "Journey 2" },
     { src: "/materials/journey3.jpeg", alt: "Journey 3" },
     { src: "/materials/journey4.jpeg", alt: "Journey 4" },
-    { src: "/materials/journey5.png", alt: "Journey 5" },
+    { src: "/materials/journey5.jpeg", alt: "Journey 5" },
     { src: "/materials/journey6.png", alt: "Journey 6" },
   ];
 

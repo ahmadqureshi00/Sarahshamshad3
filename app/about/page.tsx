@@ -57,7 +57,7 @@ export default function About() {
     { src: "/materials/journey2.png", alt: "Journey 2" },
     { src: "/materials/journey3.jpeg", alt: "Journey 3" },
     { src: "/materials/journey4.jpeg", alt: "Journey 4" },
-    { src: "/materials/journey5.png", alt: "Journey 5" },
+    { src: "/materials/journey5.jpeg", alt: "Journey 5" },
     { src: "/materials/journey6.png", alt: "Journey 6" },
   ];
 
@@ -93,7 +93,7 @@ export default function About() {
               <div>
                 <h2 className="text-3xl font-lora font-bold mb-6">My Journey</h2>
                 <p className="text-charcoal dark:text-off-white mb-6">
-                  As a multi-hyphenate professional, I bridge the worlds of journalism, content creation, academic research, 
+                  As a multi-hyphenate professional, I bridge the worlds of journalism, podcasting, content creation, academic research, 
                   translation, language teaching, and entrepreneurship. My work focuses on strategic communication that drives impact across diverse audiences.
                 </p>
                 <p className="text-charcoal dark:text-off-white mb-6">
